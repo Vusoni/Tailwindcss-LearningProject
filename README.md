@@ -1,4 +1,4 @@
-# Real Estate Website Tailwind CSS Project
+# Website Tailwind CSS Learning Project
 
 This repository is a personal learning project where I practice web design and explore Tailwind CSS. It is not a complete or polished website, and it does not include full features — the focus is purely on learning and experimentation.
 
